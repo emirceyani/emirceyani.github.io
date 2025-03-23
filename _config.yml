@@ -1,9 +1,9 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Emir Ceyani
+description: PhD Student at the University of Southen California
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
@@ -69,4 +69,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-email-protect
-  - jekyll-target-blank
+  # - jekyll-target-blank
