@@ -13,15 +13,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
-stackoverflow: "#"
-github: "yurtmahmut"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
-bluesky: "#"
+linkedin: "emir-ceyani"
+stackoverflow: "280640/emir-ceyani"
+github: "emirceyani"
 
 # Markdown
 highlighter: rouge

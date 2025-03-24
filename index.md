@@ -55,9 +55,9 @@ published: true
 <div class="news" style="margin-top: 2em;">
 <h2>News</h2>
 <ul>
-  <li><span class="news-date">February 2025</span> - Became a finalist "  <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america">at the 2025 Qualcomm Innovation Fellowship /a>.</li>
-  <li><span class="news-date">January 2025</span> - Became a semi-finalist at 2025 Qualcomm Innovation Fellowship  <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america">UM6P, Ben Guerir</a>.</li>
-  <li><span class="news-date">December 2024</span> - FedGrAINS, GFlowNet paper to improve subgraph federated learning has been accepted at the <a href="https://www.siam.org/conferences-events/siam-conferences/sdm25/">the SIAM-SDM'25 conference</a>.</li>
+  <li><span class="news-date">February 2025</span> - Became a finalist at <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america">the 2025 Qualcomm Innovation Fellowship</a>.</li>
+  <li><span class="news-date">January 2025</span> - Became a semi-finalist at <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america">the 2025 Qualcomm Innovation Fellowship </a>.</li>
+  <li><span class="news-date">December 2024</span> - FedGrAINS, GFlowNet paper to improve subgraph federated learning has been accepted to <a href="https://www.siam.org/conferences-events/siam-conferences/sdm25/">the SIAM-SDM'25 conference</a>. Preprint is available  <a href="https://arxiv.org/abs/2501.12592">in this link</a>.  </li>
 </ul>
 </div>
 
