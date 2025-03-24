@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Mahmut Yurt
-description: PhD candidate at Stanford University 
+title: Emir Ceyani 
+description: PhD candidate at University of Southern
 
 baseurl: "" #/gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: myurt@stanford.edu#
+email: ceyani@usc.edu
 
 # Pagination
 paginate: 4

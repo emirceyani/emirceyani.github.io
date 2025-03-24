@@ -3,14 +3,13 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: profile.jpg
+  image: profile.jpeg
 published: true
 ---
 
 <div class="intro-section">
   <p class="lead-text">
-    I am a PhD candidate in Electrical Engineering at <a href="https://mrsrl.sites.stanford.edu/" target="_blank">Stanford University</a>, working with Prof. John Pauly. 
-I am third-year PhD Student in Electrical Engineering at Stanford University, under the supervision of Prof. John Pauly. I also work closely with Prof. Kawin Setsompop, Prof. Shreyas Vasanawala, and Prof. Akshay Chaudhari. Before joining Stanford, I received my MSc and BSc degrees from Electrical Engineering at Bilkent University in Turkiye, where I worked with Prof. Tolga Cukur. My research focuses on synergistic combination of computer vision and medical imaging to advance healthcare technologies by developing novel deep learning models for accelerated multi-contrast MRI synthesis, reconstruction and super-resolution as well as for the foremost computer vision problems utilizing supervised and unsupervised learning techniques.
+    I am a fourth PhD student in Electrical Engineering at the Universoty of Southern California, working with <a href="https://www.avestimehr.com/" target="_blank">Prof. Salman Avestimehr</a>. .  My research focuses on synergistic combination of computer vision and medical imaging to advance healthcare technologies by developing novel deep learning models for accelerated multi-contrast MRI synthesis, reconstruction and super-resolution as well as for the foremost computer vision problems utilizing supervised and unsupervised learning techniques.
   </p>
 
 
@@ -18,12 +17,14 @@ I am third-year PhD Student in Electrical Engineering at Stanford University, un
   <div class="research-topics">
     <h3>Research Topics</h3>
     <div class="topic-grid">
-      <div class="topic-item">Generative AI</div>
-      <div class="topic-item">Diffusion models</div>
-      <div class="topic-item">Foundation models</div>
-      <div class="topic-item">Uncertainty estimation</div>
-      <div class="topic-item">Medical imaging</div>
-      <div class="topic-item">Self-driving cars</div>
+      <div class="topic-item">Federated Learning</div>
+      <div class="topic-item">GFlowNets</div>
+      <div class="topic-item">Graph Neural Networks</div>
+      <div class="topic-item">Uncertainty Estimation</div>
+      <div class="topic-item">Probabilistic Modeling</div>
+      <div class="topic-item">AI For Science/Engineering</div>
+      <div class="topic-item">Conformal Prediction</div>
+      <div class="topic-item">LLM Reasoning</div>
     </div>
   </div>
 
@@ -54,10 +55,8 @@ I am third-year PhD Student in Electrical Engineering at Stanford University, un
 <div class="news" style="margin-top: 2em;">
 <h2>News</h2>
 <ul>
-  <li><span class="news-date">February 2025</span> - I gave a talk titled "GFlowNets: A Novel Framework for Diverse Generation in Combinatorial and Continuous Spaces" (<a href="{{site.baseurl}}/assets/files/mbzuai_paris_workshop_feb25.pdf" target="_blank">slides</a>) at the <a href="https://mbzuai-paris.github.io/workshop-2025">MBZUAI Paris Workshop 2025</a>.</li>
-  <li><span class="news-date">February 2025</span> - I co-taught the week-long, pre-doctoral level, "Mathematical Foundations of Machine Learning" class at <a href="https://um6p.ma/">UM6P, Ben Guerir</a>.</li>
-  <li><span class="news-date">February 2025</span> - Our work <a href="https://arxiv.org/abs/2406.16061">"PORT: Preference Optimization on Reasoning Traces"</a> has been accepted to the <a href="https://2025.naacl.org/">NAACL 2025</a> conference.</li>
-  <li><span class="news-date">February 2025</span> - Our work “Customer Reactions to Companion AI: Exploring Opportunities and Threats for Vulnerable Consumers” has been accepted to the <a href="https://www.servsig.org/wordpress/2024/08/2025-frontiers-in-service-in-hec-montreal-canada/">Frontiers in service 2025</a> conference.</li>
+  <li><span class="news-date">February 2025</span> - Became a finalist at Qualcomm Innovation Fellowship"  <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america"></a>.</li>
+  <li><span class="news-date">January 2025</span> - Became a semi-finalist at Qualcomm Innovation Fellowship at <a href="https://um6p.ma/">UM6P, Ben Guerir</a>.</li>
   <li><span class="news-date">December 2024</span> - I gave a keynote talk titled "Advancing the Fourth Paradigm: Machine Learning Frameworks for Experimental Science" at the  the <a href="https://morocco.ai/events/conferences/MoroccoAI-Conference-2024/index.html">MoroccoAI 2024 conference</a>.</li>
   <li><span class="news-date">November 2024</span> - I attended the <a href="https://climb.berkeley.edu/climb-workshop/">CLIMB workshop</a>, and the <a href="https://simons.berkeley.edu/workshops/domain-adaptation-related-areas" target="_blank">Domain adaption and related areas workshop</a> at the Simon's institute, in University of California, Berkeley.</li>
   <li><span class="news-date">October 2024</span> - I am co-organizing the <a href="https://netys.org/" target="_blank">NETYS 2025</a> conference in Rabat, Morocco, in May 2025.</li>
@@ -70,7 +69,7 @@ I am third-year PhD Student in Electrical Engineering at Stanford University, un
     Ultimately, I am driven by a deep interest in understanding and defining intelligence, whether it's in animals or artificial systems. While I'm excited about the potential of AI, I'm also mindful of its limitations and potential pitfalls – I'm definitely not a technosolutionist.
   </p>
   <p>
-    Before my current role, I worked at <a href="https://www.tii.ae/" target="_blank">TII</a> as a Senior Researcher in 2024. I obtained my PhD in 2023 from <a href="https://mila.quebec/en/" target="_blank">Mila</a> and <a href="https://www.umontreal.ca/en" target="_blank">UdeM</a>, under the supervision of <a href="https://yoshuabengio.org/" target="_blank">Yoshua Bengio</a>. During my PhD, I also interned at <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&themeRefresh=1">Google Brain</a> in Paris in 2020, focusing on hierarchical reinforcement learning. My academic background includes studies in applied mathematics at <a href="https://www.polytechnique.edu/" target="_blank">Ecole Polytechnique</a> and statistical learning at <a href="https://ens-paris-saclay.fr/" target="_blank">Ecole Normale Supérieure Paris-Saclay</a>. I've also explored research in game theory and operations research at <a href="https://researcher.watson.ibm.com/researcher/view_group.php?id=8131" target="_blank">IBM Research Singapore</a> and gained industry experience as a data scientist at <a href="https://www.booking.com/">Booking.com</a> in Amsterdam.
+    Before my current role, Before joining USC, I received my MSc and BSc degrees from  <a href="https://ee.bilkent.edu.tr/en/" target="_blank">the Electrical Engineering at Bilkent University</a> as a Senior Researcher in 2018 and 2020 respectively.
   </p>
 </div>
 
