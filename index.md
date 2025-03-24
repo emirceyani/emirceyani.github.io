@@ -53,7 +53,7 @@ published: true
 </div>
 
 <div class="news" style="margin-top: 2em;">
-<h2>News</h2>
+<h2>Recent News</h2>
 <ul>
   <li><span class="news-date">February 2025</span> - Became a finalist at <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america">the 2025 Qualcomm Innovation Fellowship</a>.</li>
   <li><span class="news-date">January 2025</span> - Became a semi-finalist at <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america">the 2025 Qualcomm Innovation Fellowship </a>.</li>

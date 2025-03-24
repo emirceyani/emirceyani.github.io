@@ -4,7 +4,7 @@ title: Emir Ceyani
 description: PhD Student at University of Southern California
 
 baseurl: "" #/gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+url: "https://ceyani.io" #custom url to be used instead of GitHub repository
 email: ceyani@usc.edu
 
 # Pagination
@@ -14,7 +14,7 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 linkedin: "emir-ceyani"
-stackoverflow: "280640/emir-ceyani"
+stackoverflow: "/280640/emir-ceyani"
 github: "emirceyani"
 
 # Markdown
