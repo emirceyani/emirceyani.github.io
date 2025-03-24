@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Emir Ceyani
-description: PhD Student at the University of Southen California
+title: Mahmut Yurt
+description: PhD candidate at Stanford University 
 
-baseurl: "" #name of GitHub repository
+baseurl: "" #/gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: ceyani@usc.edu #
+email: myurt@stanford.edu#
 
 # Pagination
 paginate: 4
@@ -15,7 +15,7 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 linkedin: "#"
 stackoverflow: "#"
-github: "emirceyani"
+github: "yurtmahmut"
 researchgate: "#"
 orcid: "#"
 quora: "#"

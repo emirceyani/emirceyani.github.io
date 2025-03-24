@@ -3,13 +3,14 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: profile.png
+  image: profile.jpg
 published: true
 ---
 
 <div class="intro-section">
   <p class="lead-text">
-    I am an Assistant Professor at the Machine Learning department of the <a href="https://mbzuai.ac.ae/" target="_blank">Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)</a>. My research focuses on areas like LLM reasoning, GFlowNets, uncertainty estimation, reinforcement learning sample complexity, and more broadly, on designing better "AI for science" tools.
+    I am a PhD candidate in Electrical Engineering at <a href="https://mrsrl.sites.stanford.edu/" target="_blank">Stanford University</a>, working with Prof. John Pauly. 
+I am third-year PhD Student in Electrical Engineering at Stanford University, under the supervision of Prof. John Pauly. I also work closely with Prof. Kawin Setsompop, Prof. Shreyas Vasanawala, and Prof. Akshay Chaudhari. Before joining Stanford, I received my MSc and BSc degrees from Electrical Engineering at Bilkent University in Turkiye, where I worked with Prof. Tolga Cukur. My research focuses on synergistic combination of computer vision and medical imaging to advance healthcare technologies by developing novel deep learning models for accelerated multi-contrast MRI synthesis, reconstruction and super-resolution as well as for the foremost computer vision problems utilizing supervised and unsupervised learning techniques.
   </p>
 
 
@@ -17,14 +18,12 @@ published: true
   <div class="research-topics">
     <h3>Research Topics</h3>
     <div class="topic-grid">
-      <div class="topic-item">AI for Science Tools</div>
-      <div class="topic-item">LLM Reasoning</div>
-      <div class="topic-item">Curriculum Learning</div>
-      <div class="topic-item">Uncertainty Estimation</div>
-      <div class="topic-item">Sample Efficient RL</div>
-      <div class="topic-item">Bayesian Optimization</div>
-      <div class="topic-item">GFlowNets</div>
-      <div class="topic-item">Probabilistic Modeling</div>
+      <div class="topic-item">Generative AI</div>
+      <div class="topic-item">Diffusion models</div>
+      <div class="topic-item">Foundation models</div>
+      <div class="topic-item">Uncertainty estimation</div>
+      <div class="topic-item">Medical imaging</div>
+      <div class="topic-item">Self-driving cars</div>
     </div>
   </div>
 
@@ -51,11 +50,6 @@ published: true
     </div>
   </div>
 </div>
-
-  <div class="highlight-box">
-    <span class="highlight-text"><b>Not hiring in 2025!</b></span> 
-    <a href="https://forms.gle/y8pgujVkaVeV5kVm7">The usual form</a> is closed. 
-  </div>
 
 <div class="news" style="margin-top: 2em;">
 <h2>News</h2>
