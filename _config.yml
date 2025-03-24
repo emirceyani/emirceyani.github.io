@@ -5,7 +5,7 @@ description: PhD Student at the University of Southen California
 
 baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: ceyani@usc.edu #
 
 # Pagination
 paginate: 4
@@ -15,7 +15,7 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 linkedin: "#"
 stackoverflow: "#"
-github: "#"
+github: "emirceyani"
 researchgate: "#"
 orcid: "#"
 quora: "#"
