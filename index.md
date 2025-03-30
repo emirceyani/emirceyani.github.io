@@ -9,7 +9,7 @@ published: true
 
 <div class="intro-section">
   <p class="lead-text">
-    I am a fourth year PhD student in Electrical Engineering at the Universoty of Southern California, working with <a href="https://www.avestimehr.com/" target="_blank">Prof. Salman Avestimehr</a>.  My research focuses on the intersection of federated learning and graph machine learning. Recently, I have a keen interest in  <a href="https://www.youtube.com/watch?v=o0Ju9NQa5Ko" target="_blank">generative flow networks</a> and <a href="https://www.youtube.com/watch?v=nql000Lu_iE&t=19s" target="_blank">conformal prediciton</a>. I have been selected as a 2025 North America Finalist at <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america" target="_blank">the Qualcomm Unnovation Fellowship</a>.
+    I am a fourth year PhD student in Electrical Engineering at the Universoty of Southern California, working with <a href="https://www.avestimehr.com/" target="_blank">Prof. Salman Avestimehr</a>.  My research focuses on the intersection of federated learning and graph machine learning. Recently, I have a keen interest in  <a href="https://www.youtube.com/watch?v=o0Ju9NQa5Ko" target="_blank">generative flow networks</a> and <a href="https://www.youtube.com/watch?v=nql000Lu_iE&t=19s" target="_blank">conformal prediciton</a>. I have been selected as a 2025 North America Finalist at <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america" target="_blank">the Qualcomm Innovation Fellowship</a>.
   </p>
 
 
@@ -56,8 +56,9 @@ published: true
 <h2>Recent News</h2>
 <ul>
   <li><span class="news-date">February 2025</span> - Became a finalist at <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america">the 2025 Qualcomm Innovation Fellowship</a>.</li>
+   <li><span class="news-date">February 2025</span> - Awarded with Travel Grant for <a href="https://www.siam.org/conferences-events/siam-conferences/sdm25/">the SIAM-SDM'25 conference, a top-tier conference in ML & data-mining.</a>.</li>
   <li><span class="news-date">January 2025</span> - Became a semi-finalist at <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america">the 2025 Qualcomm Innovation Fellowship </a>.</li>
-  <li><span class="news-date">December 2024</span> - FedGrAINS, GFlowNet paper to improve subgraph federated learning has been accepted to <a href="https://www.siam.org/conferences-events/siam-conferences/sdm25/">the SIAM-SDM'25 conference</a>. Preprint is available  <a href="https://arxiv.org/abs/2501.12592">in this link</a>.  </li>
+  <li><span class="news-date">December 2024</span> - FedGrAINS, first GFlowNet paper to improve subgraph federated learning has been accepted to <a href="https://www.siam.org/conferences-events/siam-conferences/sdm25/">the SIAM-SDM'25 conference</a>. Preprint is available  <a href="https://arxiv.org/abs/2501.12592">in this link</a>.  </li>
 </ul>
 </div>
 
