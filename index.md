@@ -55,6 +55,7 @@ published: true
 <div class="news" style="margin-top: 2em;">
 <h2>Recent News</h2>
 <ul>
+   <li><span class="news-date">May 2025</span> - <a href="https://arxiv.org/abs/2505.21923">FALCON</a>,  an end-to-end ML framework for analog circuit design (including topology selection, layout-aware parameter selection, and performance prediction) is out!</li>
   <li><span class="news-date">February 2025</span> - Became a finalist at <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america">the 2025 Qualcomm Innovation Fellowship</a>.</li>
    <li><span class="news-date">February 2025</span> - Awarded with Travel Grant for <a href="https://www.siam.org/conferences-events/siam-conferences/sdm25/">the SIAM-SDM'25 conference, a top-tier conference in ML & data-mining.</a>.</li>
   <li><span class="news-date">January 2025</span> - Became a semi-finalist at <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america">the 2025 Qualcomm Innovation Fellowship </a>.</li>
