@@ -9,9 +9,14 @@ published: true
 
 <div class="intro-section">
   <p class="lead-text">
-    I am a fourth year PhD student in Electrical Engineering at the Universoty of Southern California, working with <a href="https://www.avestimehr.com/" target="_blank">Prof. Salman Avestimehr</a>.  My research focuses on the intersection of federated learning and graph machine learning. Recently, I have a keen interest in  <a href="https://www.youtube.com/watch?v=o0Ju9NQa5Ko" target="_blank">generative flow networks</a> and <a href="https://www.youtube.com/watch?v=nql000Lu_iE&t=19s" target="_blank">conformal prediciton</a>. I have been selected as a 2025 North America Finalist at <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america" target="_blank">the Qualcomm Innovation Fellowship</a>.
+    I am a Ph.D. Candidate in Electrical & Computer Engineering at the Universoty of Southern California, working with <a href="https://www.avestimehr.com/" target="_blank">Prof. Salman Avestimehr</a>.  My research focuses on the intersection of federated learning and graph generative models, and AI4Science. Recently, I have a keen interest in  <a href="https://www.youtube.com/watch?v=o0Ju9NQa5Ko" target="_blank">generative flow networks</a>. I have been selected as a 2025 North America Finalist at <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america" target="_blank">the Qualcomm Innovation Fellowship</a>.
   </p>
 
+ <div class="highlight-box">
+    <br>
+    - Looking for postdoctoral researcher and/or academic positions  in EE/CS departments
+
+  </div>
 
 
   <div class="research-topics">
@@ -37,10 +42,13 @@ published: true
     </h3>
     <div id="contributions-content" style="display: none; text-align: left;">
       <p>
-        As AI systems are increasingly deployed in complex tasks and real-world applications, I believe it's crucial to understand and improve their reasoning and reliability. My work addresses challenges like quantifying uncertainty, performing efficient search and sampling, and ensuring reliable reasoning, all of which are fundamental for safe and effective AI deployment.
+        As AI systems are increasingly deployed in complex tasks across decentralized real-world applications, I believe it's vital to build foundations of ML fro graphs over federated settings. My work has introduced the federated training of graph neural networks and continues to pursue applications rewuired for collaborative and decentralized science with the coexistence of AI.  
       </p>
       <p>
-        Currently, I'm focused on the theory and applications of GFlowNets to tackle more complex problems, using them to enhance Large Language Model reasoning, and developing even better uncertainty estimation methods. My overall goal is to improve the reliability, efficiency, and reasoning capabilities of AI systems, particularly in scenarios that demand robust decision-making under uncertainty. For this goal, I am collaborating with  <a href="https://la7.lu/" target="_blank">Salem Lahlou</a> and  <a href="https://www.ee.iitm.ac.in/faculty/profile/saurav" target="_blank">Saurav Prakash</a>.
+        Currently, I'm focused on the theory and applications of GFlowNets to tackle more complex problems. My overall goal is to improve the reliability, efficiency, and reasoning capabilities of AI systems, particularly in scenarios that demand robust decision-making under uncertainty. For this goal, I am collaborating with  <a href="https://la7.lu/" target="_blank">Salem Lahlou</a> and  <a href="https://www.ee.iitm.ac.in/faculty/profile/saurav" target="_blank">Saurav Prakash</a>.
+      </p>
+      <p>
+        Application-wise, my current focuses are automated analog circuit design and semiconductor physics using tools such as GNNs, LLMs and Bayesian Optimization to tackle  complex problems in the aforementioned domains. For this goal, I am collaborating with  <a href="https://engineering.uci.edu/users/hamidreza-aghasi" target="_blank">Hamidreza Aghasi</a> and  <a href="https://viterbi.usc.edu/directory/faculty/Kapadia/Rehan" target="_blank">Rehan Kapadia</a>.
       </p>
     </div>
   </div>
@@ -49,7 +57,7 @@ published: true
 <div class="news" style="margin-top: 2em;">
 <h2>Recent News</h2>
 <ul>
-  <li><span class="news-date">Sep 2025</span> - Our work, <a href="https://arxiv.org/abs/2505.21923">FALCON</a>, has been accepted to NeurIPS'25 - Main Track!</li>
+  <li><span class="news-date">Sep 2025</span> - Our work, <a href="https://arxiv.org/abs/2505.21923">FALCON</a>, has been accepted to NeurIPS'25!</li>
   <li><span class="news-date">Sep 2025</span> - Officially, a Ph.D. candidate!</li>
    <li><span class="news-date">May 2025</span> - <a href="https://arxiv.org/abs/2505.21923">FALCON</a>,  an end-to-end ML framework for analog circuit design (including topology selection, layout-aware parameter selection, and performance prediction) is out!</li>
   <li><span class="news-date">February 2025</span> - Became a finalist at <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america">the 2025 Qualcomm Innovation Fellowship</a>.</li>
