@@ -40,12 +40,6 @@ published: true
         As AI systems are increasingly deployed in complex tasks and real-world applications, I believe it's crucial to understand and improve their reasoning and reliability. My work addresses challenges like quantifying uncertainty, performing efficient search and sampling, and ensuring reliable reasoning, all of which are fundamental for safe and effective AI deployment.
       </p>
       <p>
-        One major focus has been the development of Generative Flow Networks (GFlowNets), a framework that connects reinforcement learning and probabilistic modeling. I've worked on establishing the theoretical foundations of GFlowNets, demonstrating their effectiveness in Bayesian inference of discrete and continuous structures, and showing their ability to handle multimodal distributions better than traditional variational methods. I also created and released <a href="https://github.com/GFNOrg/torchgfn" target="_blank">torchgfn</a>, an open-source software framework, to make GFlowNets more accessible for both discrete and general applications.
-      </p>
-      <p>
-        Beyond GFlowNets, I've also contributed to uncertainty estimation through a method called DEUP (Direct Epistemic Uncertainty Prediction). DEUP addresses model misspecification in interactive learning settings by using a secondary predictor trained on the main model's errors. This results in more reliable uncertainty estimates for decision-making in downstream tasks.
-      </p>
-      <p>
         Currently, I'm focused on the theory and applications of GFlowNets to tackle more complex problems, using them to enhance Large Language Model reasoning, and developing even better uncertainty estimation methods. My overall goal is to improve the reliability, efficiency, and reasoning capabilities of AI systems, particularly in scenarios that demand robust decision-making under uncertainty. For this goal, I am collaborating with  <a href="https://la7.lu/" target="_blank">Salem Lahlou</a> and  <a href="https://www.ee.iitm.ac.in/faculty/profile/saurav" target="_blank">Saurav Prakash</a>.
       </p>
     </div>
@@ -55,6 +49,8 @@ published: true
 <div class="news" style="margin-top: 2em;">
 <h2>Recent News</h2>
 <ul>
+  <li><span class="news-date">Sep 2025</span> - Our work, <a href="https://arxiv.org/abs/2505.21923">FALCON</a>, has been accepted to NeurIPS'25 - Main Track!</li>
+  <li><span class="news-date">Sep 2025</span> - Officially, a Ph.D. candidate!</li>
    <li><span class="news-date">May 2025</span> - <a href="https://arxiv.org/abs/2505.21923">FALCON</a>,  an end-to-end ML framework for analog circuit design (including topology selection, layout-aware parameter selection, and performance prediction) is out!</li>
   <li><span class="news-date">February 2025</span> - Became a finalist at <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america">the 2025 Qualcomm Innovation Fellowship</a>.</li>
    <li><span class="news-date">February 2025</span> - Awarded with Travel Grant for <a href="https://www.siam.org/conferences-events/siam-conferences/sdm25/">the SIAM-SDM'25 conference, a top-tier conference in ML & data-mining.</a>.</li>
