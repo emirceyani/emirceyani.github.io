@@ -57,6 +57,7 @@ published: true
 <div class="news" style="margin-top: 2em;">
 <h2>Recent News</h2>
 <ul>
+  <li><span class="news-date">Oct 2025</span> - Selected as a Top Reviewer at N <a href="https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer">NeurIPS'25!</a>, </li>
   <li><span class="news-date">Sep 2025</span> - Our work, <a href="https://arxiv.org/abs/2505.21923">FALCON</a>, has been accepted to NeurIPS'25!</li>
   <li><span class="news-date">Sep 2025</span> - Officially, a Ph.D. candidate!</li>
    <li><span class="news-date">May 2025</span> - <a href="https://arxiv.org/abs/2505.21923">FALCON</a>,  an end-to-end ML framework for analog circuit design (including topology selection, layout-aware parameter selection, and performance prediction) is out!</li>
