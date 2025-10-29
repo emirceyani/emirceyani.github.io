@@ -42,7 +42,7 @@ published: true
     </h3>
     <div id="contributions-content" style="display: none; text-align: left;">
       <p>
-        As AI systems are increasingly deployed in complex tasks across decentralized real-world applications, I believe it's vital to build foundations of ML fro graphs over federated settings. My work has introduced the federated training of graph neural networks and continues to pursue applications rewuired for collaborative and decentralized science with the coexistence of AI.  
+        As AI systems are increasingly deployed in complex tasks across decentralized real-world applications, I believe it's vital to build foundations of ML fro graphs over federated settings. My work has introduced the federated training of graph neural networks and continues to pursue applications required for collaborative and decentralized science with the coexistence of AI.  
       </p>
       <p>
         Currently, I'm focused on the theory and applications of GFlowNets to tackle more complex problems. My overall goal is to improve the reliability, efficiency, and reasoning capabilities of AI systems, particularly in scenarios that demand robust decision-making under uncertainty. For this goal, I am collaborating with  <a href="https://la7.lu/" target="_blank">Salem Lahlou</a> and  <a href="https://www.ee.iitm.ac.in/faculty/profile/saurav" target="_blank">Saurav Prakash</a>.
@@ -57,7 +57,7 @@ published: true
 <div class="news" style="margin-top: 2em;">
 <h2>Recent News</h2>
 <ul>
-  <li><span class="news-date">Oct 2025</span> - Selected as a Top Reviewer at N <a href="https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer">NeurIPS'25!</a>, </li>
+  <li><span class="news-date">Oct 2025</span> - Selected as a Top Reviewer at <a href="https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer">NeurIPS'25!</a>, </li>
   <li><span class="news-date">Sep 2025</span> - Our work, <a href="https://arxiv.org/abs/2505.21923">FALCON</a>, has been accepted to NeurIPS'25!</li>
   <li><span class="news-date">Sep 2025</span> - Officially, a Ph.D. candidate!</li>
    <li><span class="news-date">May 2025</span> - <a href="https://arxiv.org/abs/2505.21923">FALCON</a>,  an end-to-end ML framework for analog circuit design (including topology selection, layout-aware parameter selection, and performance prediction) is out!</li>
