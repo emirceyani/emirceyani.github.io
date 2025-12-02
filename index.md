@@ -9,7 +9,7 @@ published: true
 
 <div class="intro-section">
   <p class="lead-text">
-    I am a Ph.D. Candidate in Electrical & Computer Engineering at the Universoty of Southern California, working with <a href="https://www.avestimehr.com/" target="_blank">Prof. Salman Avestimehr</a>.  My research focuses on the intersection of federated learning and graph generative models, and AI4Science. Recently, I have a keen interest in  <a href="https://www.youtube.com/watch?v=o0Ju9NQa5Ko" target="_blank">generative flow networks</a>. I have been selected as a 2025 North America Finalist at <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america" target="_blank">the Qualcomm Innovation Fellowship</a>.
+    I am a Ph.D. Candidate in Electrical & Computer Engineering at the University of Southern California, working with <a href="https://www.avestimehr.com/" target="_blank">Prof. Salman Avestimehr</a>.  My research focuses on the intersection of federated learning and graph generative models, and AI4Science. Recently, I have a keen interest in  <a href="https://www.youtube.com/watch?v=o0Ju9NQa5Ko" target="_blank">generative flow networks</a>. I have been selected as a 2025 North America Finalist at <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america" target="_blank">the Qualcomm Innovation Fellowship</a>.
   </p>
 
  <div class="highlight-box">
@@ -73,7 +73,7 @@ published: true
     Ultimately, I am driven by a deep interest in understanding and defining intelligence, whether it's in animals or artificial systems. While I'm excited about the potential of AI, I'm also mindful of its limitations and potential pitfalls – I'm definitely not a technosolutionist.
   </p>
   <p>
-    Before my current role, Before joining USC, I received my MSc and BSc degrees from  <a href="https://ee.bilkent.edu.tr/en/" target="_blank">the Electrical Engineering at Bilkent University</a> as a Senior Researcher in 2018 and 2020 respectively.
+    Before my current role, Before joining USC, I received my MSc and BSc degrees from  <a href="https://ee.bilkent.edu.tr/en/" target="_blank">the Electrical Engineering at Bilkent University</a>  in 2018 and 2020 respectively.
   </p>
 </div>
 
