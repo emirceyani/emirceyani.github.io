@@ -14,7 +14,7 @@ published: true
 
  <div class="highlight-box">
     <br>
-    - Looking for postdoctoral researcher and/or academic positions  in EE/CS departments
+    - Looking for postdoctoral researcher and/or research scientist/enginner positions.
 
   </div>
 
@@ -57,6 +57,9 @@ published: true
 <div class="news" style="margin-top: 2em;">
 <h2>Recent News</h2>
 <ul>
+<li><span class="news-date">Jan 2026</span> - I gave an invited talk titled "Three Modern Pillars of AI4Science with Graphs:
+Federation, Domain Knowledge, and Discovery
+" at California Institute of Technology CMS Department, </li>
   <li><span class="news-date">Oct 2025</span> - Selected as a Top Reviewer at <a href="https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer">NeurIPS'25!</a>, </li>
   <li><span class="news-date">Sep 2025</span> - Our work, <a href="https://arxiv.org/abs/2505.21923">FALCON</a>, has been accepted to NeurIPS'25!</li>
   <li><span class="news-date">Sep 2025</span> - Officially, a Ph.D. candidate!</li>
