@@ -14,7 +14,7 @@ published: true
 
  <div class="highlight-box">
     <br>
-    - Looking for postdoctoral researcher and/or research scientist/enginner positions.
+    - Looking for postdoctoral researcher and/or research scientist/engineer positions.
 
   </div>
 
@@ -57,6 +57,8 @@ published: true
 <div class="news" style="margin-top: 2em;">
 <h2>Recent News</h2>
 <ul>
+<li><span class="news-date">April 2026</span> - I gave an invited talk titled "Federated Learning with Generative Models
+" at STAI Lab, Stanford University, </li>
 <li><span class="news-date">Jan 2026</span> - I gave an invited talk titled "Three Modern Pillars of AI4Science with Graphs:
 Federation, Domain Knowledge, and Discovery
 " at California Institute of Technology CMS Department, </li>
