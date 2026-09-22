@@ -1,11 +1,10 @@
 ### your site title here
 
 title: Emir Ceyani 
-description: Ph.D. Candidate at University of Southern California
-
+description: Postdoctoral Researcher at Scalable Analytics Institute (ScAi) & UCLA, Computer Science Department. 
 baseurl: "" #/gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: ceyani@usc.edu
+email: ceyani@cs.ucla.edu
 
 # Pagination
 paginate: 4
