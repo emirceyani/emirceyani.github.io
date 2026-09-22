@@ -11,12 +11,12 @@ published: true
   <p class="lead-text">
     I am a Computer Science Postdoctoral Researcher at <a href="https://scai.cs.ucla.edu/?page_id=20" target="_blank">Scalable Analytics Institute</a>, hosted by <a href="https://web.cs.ucla.edu/~weiwang/" target="_blank">Prof. Wei Wang</a> \& <a href="https://web.cs.ucla.edu/~yzsun/" target="_blank">Prof. Yizhou Sun</a>. I recently got my Ph.D. in Electrical & Computer Engineering at the University of Southern California, under the supervison of <a href="https://www.avestimehr.com/" target="_blank">Prof. Salman Avestimehr</a>.  My research focuses on the intersection of federated learning and graph generative models, and AI4Science. Recently, I have a keen interest in  <a href="https://www.youtube.com/watch?v=o0Ju9NQa5Ko" target="_blank">generative flow networks</a>. I have been selected as a 2025 North America Finalist at <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america" target="_blank">the Qualcomm Innovation Fellowship</a>.
   </p>
-
+<!-- 
  <div class="highlight-box">
     <br>
     - Looking for postdoctoral researcher and/or research scientist/engineer positions.
 
-  </div>
+  </div> -->
 
 
   <div class="research-topics">
