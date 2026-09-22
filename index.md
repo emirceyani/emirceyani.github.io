@@ -9,7 +9,7 @@ published: true
 
 <div class="intro-section">
   <p class="lead-text">
-    I am a Ph.D. Candidate in Electrical & Computer Engineering at the University of Southern California, working with <a href="https://www.avestimehr.com/" target="_blank">Prof. Salman Avestimehr</a>.  My research focuses on the intersection of federated learning and graph generative models, and AI4Science. Recently, I have a keen interest in  <a href="https://www.youtube.com/watch?v=o0Ju9NQa5Ko" target="_blank">generative flow networks</a>. I have been selected as a 2025 North America Finalist at <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america" target="_blank">the Qualcomm Innovation Fellowship</a>.
+    I am a Computer Science Postdoctoral Researcher at <a href="https://scai.cs.ucla.edu/?page_id=20" target="_blank">Scalable Analytics Institute</a>, hosted by <a href="https://web.cs.ucla.edu/~weiwang/" target="_blank">Prof. Wei Wang</a> \& <a href="https://web.cs.ucla.edu/~yzsun/" target="_blank">Prof. Yizhou Sun</a>. I recently got my Ph.D. in Electrical & Computer Engineering at the University of Southern California, under the supervison of <a href="https://www.avestimehr.com/" target="_blank">Prof. Salman Avestimehr</a>.  My research focuses on the intersection of federated learning and graph generative models, and AI4Science. Recently, I have a keen interest in  <a href="https://www.youtube.com/watch?v=o0Ju9NQa5Ko" target="_blank">generative flow networks</a>. I have been selected as a 2025 North America Finalist at <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america" target="_blank">the Qualcomm Innovation Fellowship</a>.
   </p>
 
  <div class="highlight-box">
@@ -57,6 +57,8 @@ published: true
 <div class="news" style="margin-top: 2em;">
 <h2>Recent News</h2>
 <ul>
+<li><span class="news-date">Sep 2026</span> - New position: Postdoctoral Researcher at UCLA CS Department!
+" at STAI Lab, Stanford University, </li>
 <li><span class="news-date">April 2026</span> - I gave an invited talk titled "Federated Learning with Generative Models
 " at STAI Lab, Stanford University, </li>
 <li><span class="news-date">Jan 2026</span> - I gave an invited talk titled "Three Modern Pillars of AI4Science with Graphs:
@@ -71,15 +73,6 @@ Federation, Domain Knowledge, and Discovery
   <li><span class="news-date">January 2025</span> - Became a semi-finalist at <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-north-america">the 2025 Qualcomm Innovation Fellowship </a>.</li>
   <li><span class="news-date">December 2024</span> - FedGrAINS, first GFlowNet paper to improve subgraph federated learning has been accepted to <a href="https://www.siam.org/conferences-events/siam-conferences/sdm25/">the SIAM-SDM'25 conference</a>. Preprint is available  <a href="https://arxiv.org/abs/2501.12592">in this link</a>.  </li>
 </ul>
-</div>
-
-<div style="margin-top: 2em;">
-  <p>
-    Ultimately, I am driven by a deep interest in understanding and defining intelligence, whether it's in animals or artificial systems. While I'm excited about the potential of AI, I'm also mindful of its limitations and potential pitfalls – I'm definitely not a technosolutionist.
-  </p>
-  <p>
-    Before my current role, Before joining USC, I received my MSc and BSc degrees from  <a href="https://ee.bilkent.edu.tr/en/" target="_blank">the Electrical Engineering at Bilkent University</a>  in 2018 and 2020 respectively.
-  </p>
 </div>
 
 <script>
