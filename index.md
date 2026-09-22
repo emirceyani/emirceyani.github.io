@@ -57,8 +57,7 @@ published: true
 <div class="news" style="margin-top: 2em;">
 <h2>Recent News</h2>
 <ul>
-<li><span class="news-date">Sep 2026</span> - New position: Postdoctoral Researcher at UCLA CS Department!
-" at STAI Lab, Stanford University, </li>
+<li><span class="news-date">Sep 2026</span> - New position: Postdoctoral Researcher at UCLA CS Department! </li>
 <li><span class="news-date">April 2026</span> - I gave an invited talk titled "Federated Learning with Generative Models
 " at STAI Lab, Stanford University, </li>
 <li><span class="news-date">Jan 2026</span> - I gave an invited talk titled "Three Modern Pillars of AI4Science with Graphs:
